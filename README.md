@@ -80,9 +80,3 @@ cd back-end
 Wire mock server
 
 
-## Bench marking:
-
-#### Technologies used:
-
-Apache JMeter
-
