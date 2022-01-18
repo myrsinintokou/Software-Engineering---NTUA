@@ -1,4 +1,4 @@
-# NTUA SOFTWARE ENGINEERING PROJECT
+# NTUA Software Engineering Project
 
 ## Back-end:
 
